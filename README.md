@@ -18,8 +18,11 @@ To address the gaps left by current regulations and guidelines in the US, this p
 
 Firstly, we will give a brief overview of the EU approach to AI regulation, explaining their AI Act and how it could apply to US legislation. As the world's first comprehensive set of regulations on Artificial Intelligence, the EU's AI Act is a global test case for balancing innovation with the rights of citizens. The EU advertises this act as a "human-centric" approach; however, after a deeper analysis, it is evident that while strengths exist in its robust classification framework, there are pitfalls, including loopholes and implementation burdens. These strengths and weaknesses are necessary to evaluate, especially in order to develop a policy recommendation for the United States. One of the major strengths of the EU AI Act is its rejection of the blanket regulation that treats all systems the same in terms of enforcement and consequences. For example, AI implementation for a video game should not have the same consequences as one for loan approval, which can dramatically affect someone's life. The EU AI Act separates systems into four distinct categories, each with its own requirements.
 
-![EU AI Act Risk Pyramid](./risk_pyramid.png)
-*Source: [European Commission](https://artificialintelligenceact.eu/high-level-summary/)*
+<p align="center">
+  <img src="./risk_pyramid.png" alt="EU Risk Pyramid">
+  <br>
+  <em>Source: <a href="https://artificialintelligenceact.eu/high-level-summary/">European Commission</a></em>
+</p>
 
 * **Unacceptable Risk:** Any systems that do not comply with fundamental rights at any level. This could include systems explicitly created for social scoring or manipulation [2].
 * **High Risk:** The most critical for adaptation for US policy, because companies in high-risk sectors are leveraging discriminatory models to take advantage of users. This includes infrastructure, law enforcement, employment, etc [2].
@@ -52,8 +55,11 @@ We collaborated with Group 3 (Public Facial Recognition), Group 1 (AI Bias in Hi
 
 Our discussion with Group 3, who focused on public facial recognition, provided a contrast between the technical capabilities of surveillance tools and the legal frameworks constraining them. Group 3 centered their work on how organizations like Palantir are perceived and what their tools can do, whereas our group concentrated on the governing regulations. We observed that under the EU AI Act, remote biometric identification is largely classified as "High Risk" or prohibited for law enforcement except in very specific circumstances [5]. By comparison, what we discovered in the United States was a mix of city- and county-level rules instead of a unified federal prohibition.
 
-![Map of US Facial Recognition Bans](./map_bans.jpeg)
-*Source: [Ban Facial Recognition Map](https://www.banfacialrecognition.com/map/)*
+<p align="center">
+  <img src="./map_bans.jpeg" alt="Map of US Facial Recognition Bans">
+  <br>
+  <em>Source: <a href="https://www.banfacialrecognition.com/map/">Ban Facial Recognition Map</a></em>
+</p>
 
 While there is no federal guidance in the US, regulation still exists at the local level, with cities like Boston, Portland, and San Francisco instituting total bans [6]. We also noted in our conversation with Group 3 that, without a nationwide privacy framework, agencies such as the Department of Justice (DOJ) and the Federal Trade Commission (FTC) can only step in when particular cases of misuse or discrimination arise [7]. This stresses that while the EU views facial data as "explicitly sensitive" requiring proactive protection, the US legal system currently treats it as a useful law enforcement tool, regulated only reactively when specific harms occur.
 
