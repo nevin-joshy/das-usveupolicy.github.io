@@ -52,7 +52,7 @@ We collaborated with Group 3 (Public Facial Recognition), Group 1 (AI Bias in Hi
 
 Our discussion with Group 3, who focused on public facial recognition, provided a contrast between the technical capabilities of surveillance tools and the legal frameworks constraining them. Group 3 centered their work on how organizations like Palantir are perceived and what their tools can do, whereas our group concentrated on the governing regulations. We observed that under the EU AI Act, remote biometric identification is largely classified as "High Risk" or prohibited for law enforcement except in very specific circumstances [5]. By comparison, what we discovered in the United States was a mix of city- and county-level rules instead of a unified federal prohibition.
 
-![Map of US Facial Recognition Bans](./map_bans.png)
+![Map of US Facial Recognition Bans](./map_bans.jpeg)
 *Source: [Ban Facial Recognition Map](https://www.banfacialrecognition.com/map/)*
 
 While there is no federal guidance in the US, regulation still exists at the local level, with cities like Boston, Portland, and San Francisco instituting total bans [6]. We also noted in our conversation with Group 3 that, without a nationwide privacy framework, agencies such as the Department of Justice (DOJ) and the Federal Trade Commission (FTC) can only step in when particular cases of misuse or discrimination arise [7]. This stresses that while the EU views facial data as "explicitly sensitive" requiring proactive protection, the US legal system currently treats it as a useful law enforcement tool, regulated only reactively when specific harms occur.
