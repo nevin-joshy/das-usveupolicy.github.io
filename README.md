@@ -1,6 +1,7 @@
 # Top-Down vs. Bottom-Up AI Governance: EU vs. US
 
 **Authors:** William Sweet, Nevin Joshy, David Smith, William Shin, Matthew Lausev, Neha Keshan
+
 **Date:** December 2025
 
 ## Abstract
